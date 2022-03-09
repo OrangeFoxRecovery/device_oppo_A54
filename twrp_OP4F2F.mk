@@ -21,7 +21,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base.mk)
 $(call inherit-product, vendor/twrp/config/common.mk)
 
 # Inherit from A54 device
-$(call inherit-product, device/oppo/A54/device.mk)
+$(call inherit-product, device/oppo/OP4F2F/device.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := OP4F2F
