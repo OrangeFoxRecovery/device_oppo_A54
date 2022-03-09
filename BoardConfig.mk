@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-DEVICE_PATH := device/oppo/A54
+DEVICE_PATH := device/oppo/OP4F2F
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
