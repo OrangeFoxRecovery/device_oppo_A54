@@ -17,7 +17,7 @@
 #
 # 	Please maintain this if you use this script or any part of it
 #
-FDEVICE="A54"
+FDEVICE="OP4F2F"
 #set -o xtrace
 
 fox_get_target_device() {
