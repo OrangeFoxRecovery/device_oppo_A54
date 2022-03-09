@@ -15,7 +15,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_garden.mk
+    $(LOCAL_DIR)/twrp_A54.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_garden-eng
+    twrp_A54-eng

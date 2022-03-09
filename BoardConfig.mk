@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-DEVICE_PATH := device/xiaomi/garden
+DEVICE_PATH := device/oppo/A54
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
@@ -76,8 +76,7 @@ BOARD_SUPER_PARTITION_GROUPS := main
 BOARD_MAIN_SIZE := 9126805504
 BOARD_MAIN_PARTITION_LIST := \
 	system \
-	vendor \
-	product
+	vendor
 
 # System as Root
 BOARD_SUPPRESS_SECURE_ERASE := true
