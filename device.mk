@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/oppo/A54
+LOCAL_PATH := device/oppo/OP4F2F
 
 # Dynamic Partitions
 PRODUCT_USE_DYNAMIC_PARTITIONS := true
